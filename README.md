@@ -11,7 +11,7 @@ Welcome to **Paradise Hotel**, a sleek and responsive hotel management web appli
 
 The home page offers a visually engaging layout, providing an overview of Paradise Hotel's elegance and functionality. Visitors can easily navigate to all core sections like room categories, facilities, bookings, and feedback.
 
-![Home Screen](screenshots/home_screen.png)
+![image alt](https://github.com/Even-Sem/Hotel-Management---Paradise-Hotel/blob/b380500a586139e3bb0c12383f4bb9399daef751/Home%20Page.jpg)
 *Home Screen*
 
 ---
