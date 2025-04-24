@@ -2,9 +2,6 @@
 
 Welcome to **Paradise Hotel**, a sleek and responsive hotel management web application that brings the comfort of hospitality to your screen. Built with modern web technologies, this project offers an intuitive interface to explore hotel offerings and manage bookings effortlessly.
 
-![Landing Page](screenshots/landing_page.png)
-*Landing Page*
-
 ---
 
 ## 🏠 Home Page
