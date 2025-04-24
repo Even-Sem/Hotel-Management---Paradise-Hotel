@@ -62,8 +62,10 @@ Guests can submit their experiences, suggestions, and concerns. This section cap
 ---
 
 ## 📷 Screenshots
-- `screenshots/landing_page.png` – Welcome screen  
-- `screenshots/home_screen.png` – Main navigation page  
-
----
+- `screenshots/landing_page.png` – Sign Up page  
+- `screenshots/home_screen.png` – Home Screen  
+- `screenshots/booking_page.png` – Booking Page
+- - `screenshots/package_page.png` – Packages
+- - `screenshots/payment_page.png` – Payment section
+- - `screenshots/feedback_page.png` – Feedback
 
